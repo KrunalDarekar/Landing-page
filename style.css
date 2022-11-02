@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    max-width: 140px;
+    height: auto;
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    padding: 8px 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.left-links {
+    display: flex;
+    gap: 36px;
+    font-size: 18px;
+}
+
