@@ -11,7 +11,7 @@ body {
 .header {
     background-color: #1F2937;
     display: flex;
-    padding: 8px 200px;
+    padding: 6px 200px;
     justify-content: space-between;
     align-items: center;
 }
@@ -32,4 +32,42 @@ ul {
     gap: 36px;
     font-size: 18px;
 }
+
+.p1 {
+    background-color: #1F2937;
+    display: flex;
+    padding: 80px 200px;
+    justify-content: space-between;
+}
+
+.right {
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.hero.main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.hero.secondary {
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+button {
+    align-self: flex-start;
+    background-color: #3882F6;
+    font-size: 18px;
+    padding: 6px 28px;
+    border-radius: 8px;
+}
+
+
 
