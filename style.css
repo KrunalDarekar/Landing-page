@@ -67,6 +67,8 @@ button {
     font-size: 18px;
     padding: 6px 28px;
     border-radius: 8px;
+    color: #E5E7EB;
+    border: 1px solid #E5E7EB;
 }
 
 .p2 {
@@ -132,6 +134,33 @@ button {
     margin: 0px 150px;
     font-weight: bold;
     font-size: 26px;
+}
+
+.p4 {
+    display: flex;
+    padding: 80px 200px;
+    justify-content: center;
+}
+
+.modal {
+    display: flex;
+    margin: 40px 0px;
+    border: 2px solid #3882F6;
+    padding: 60px 120px;
+    border-radius: 8px;
+    background-color: #3882F6;
+    gap: 150px;
+    align-items: center;
+}
+
+.left-text .main {
+    font-weight: bold;
+    font-size: 28px;
+    color: #E5E7EB;
+}
+
+.left-text .sec {
+    color: #E5E7EB;
 }
 
 
