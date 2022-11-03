@@ -163,6 +163,18 @@ button {
     color: #E5E7EB;
 }
 
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    padding: 40px 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .text {
+    color: #E5E7EB;
+}
+
 
 
 
